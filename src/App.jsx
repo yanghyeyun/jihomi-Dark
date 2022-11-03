@@ -220,7 +220,7 @@ function App() {
             style={{
               position: "absolute",
               right: "600px",
-              top: "310px",
+              top: "305px",
               fontSize: "42px",
               color: "rgb(51,51,51)",
               fontFamily: "DotumChe",
