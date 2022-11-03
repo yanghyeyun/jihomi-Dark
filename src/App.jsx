@@ -161,12 +161,12 @@ function App() {
                     <div
             style={{
               position: "absolute",
-              right: numLocLR + 570 + "px",
-              top: numsLoc[1] + 200 + "px",
+              right: numLocLR + 560 + "px",
+              top: numsLoc[1] + 195 + "px",
               fontSize:"42px",
               color: "rgb(51,51,51)",
               fontFamily: "DotumChe",
-              fontWeight: "500",
+              fontWeight: "800",
 
             }}
           >
