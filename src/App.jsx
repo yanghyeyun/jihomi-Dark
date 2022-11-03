@@ -247,9 +247,9 @@ function App() {
           <div
             style={{
               position: "absolute",
-              right: "25px",
+              right: "30px",
               top: "35px",
-              fontSize: "42px",
+              fontSize: "41px",
               color: "rgb(218,64,48)",
               fontFamily: "DotumChe",
               fontWeight: "800",
@@ -266,9 +266,9 @@ function App() {
                 <div
               style={{
                 position: "absolute",
-                right: "25px",
+                right: "30px",
                 top: "95px",
-                fontSize: "42px",
+                fontSize: "41px",
                 color: "rgb(218,64,48)",
                 fontFamily: "DotumChe",
                 fontWeight: "800",
