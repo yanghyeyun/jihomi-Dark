@@ -219,12 +219,12 @@ function App() {
           <div
             style={{
               position: "absolute",
-              left: "27px",
+              right: "600px",
               top: "300px",
-              fontSize: "30px",
+              fontSize: "42px",
               color: "rgb(51,51,51)",
-              fontFamily: "HarmonyOS Sans",
-              fontWeight: "500",
+              fontFamily: "DotumChe",
+              fontWeight: "800",
 
             }}
           >
