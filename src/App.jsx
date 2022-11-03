@@ -234,7 +234,7 @@ function App() {
             style={{
               position: "absolute",
               right: "125px",
-              top: "307px",
+              top: "306px",
               fontSize: "42px",
               color: "rgb(51,51,51)",
               fontFamily: "DotumChe",
