@@ -210,7 +210,7 @@ function App() {
               fontSize: "40px",
               color: "black",
               fontFamily: "HarmonyOS Sans",
-              fontWeight: "500",
+              fontWeight: "1000",
 
             }}
           >
