@@ -120,12 +120,12 @@ function App() {
       <button onClick={up}>숫자 위로</button>
       <br />
       <br />
-      <button onClick={left}>숫자 좌로</button>
+      <button onClick={left}>보유수량 숫자 좌로</button>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <button onClick={right}>숫자 우로</button>
+      <button onClick={right}>보유수량 숫자 우로</button>
       <br />
       <br />
-      <button onClick={down}>숫자 아래로</button>
+      <button onClick={down}>보유수량 숫자 아래로</button>
       <br />
       <br />
       <button onClick={downLoad}>다운로드</button>
@@ -161,8 +161,8 @@ function App() {
                     <div
             style={{
               position: "absolute",
-              left: "27px",
-              top: "200px",
+              right: numLocLR + 27 + "px",
+              top: numsLoc[1] + 190 + "px",
               fontSize:"42px",
               color: "rgb(51,51,51)",
               fontFamily: "HarmonyOS Sans",
