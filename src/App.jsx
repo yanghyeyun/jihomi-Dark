@@ -251,7 +251,7 @@ function App() {
               top: "35px",
               fontSize: "42px",
               color: "rgb(218,64,48)",
-              fontFamily: "HarmonyOS Sans",
+              fontFamily: "DotumChe",
               fontWeight: "500",
 
             }}
@@ -270,7 +270,7 @@ function App() {
                 top: "95px",
                 fontSize: "42px",
                 color: "rgb(218,64,48)",
-                fontFamily: "HarmonyOS Sans",
+                fontFamily: "DotumChe",
                 fontWeight: "500",
 
               }}
