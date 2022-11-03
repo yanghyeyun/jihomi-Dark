@@ -62,10 +62,10 @@ function App() {
     setNumsLoc([one, two, three]);
   }
   function left() {
-    setNumLocLR(numLocLR - 1);
+    setNumLocLR(numLocLR + 1);
   }
   function right() {
-    setNumLocLR(numLocLR + 1);
+    setNumLocLR(numLocLR - 1);
   }
 
 
@@ -175,11 +175,11 @@ function App() {
                     <div
             style={{
               position: "absolute",
-              left: "700px",
-              top: "175px",
+              right: "100px",
+              top: "196px",
               fontSize:"42px",
               color: "rgb(51,51,51)",
-              fontFamily: "HarmonyOS Sans",
+              fontFamily: "DotumChe",
               fontWeight: "500",
 
             }}
