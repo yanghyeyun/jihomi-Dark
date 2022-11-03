@@ -117,7 +117,7 @@ function App() {
       </span>
       <br />
       <br />
-      <button onClick={up}>숫자 위로</button>
+      <button onClick={up}>보유수량 숫자 위로</button>
       <br />
       <br />
       <button onClick={left}>보유수량 숫자 좌로</button>
@@ -161,8 +161,8 @@ function App() {
                     <div
             style={{
               position: "absolute",
-              right: numLocLR + 550 + "px",
-              top: numsLoc[1] + 190 + "px",
+              right: numLocLR + 570 + "px",
+              top: numsLoc[1] + 200 + "px",
               fontSize:"42px",
               color: "rgb(51,51,51)",
               fontFamily: "DotumChe",
