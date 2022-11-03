@@ -250,7 +250,7 @@ function App() {
               left: numLocLR + 700 + "px",
               top: numsLoc[1] + 50 + "px",
               fontSize: "28px",
-              color: "red",
+              color: "rgb(218,64,48)",
               fontFamily: "HarmonyOS Sans",
               fontWeight: "500",
 
@@ -269,7 +269,7 @@ function App() {
                 left: numLocLR + 700 +"px",
                 top: numsLoc[2] + 100 + "px",
                 fontSize: "55px",
-                color: "red",
+                color: "rgb(218,64,48)",
                 fontFamily: "HarmonyOS Sans",
                 fontWeight: "700",
 
