@@ -252,7 +252,7 @@ function App() {
               fontSize: "42px",
               color: "rgb(218,64,48)",
               fontFamily: "DotumChe",
-              fontWeight: "500",
+              fontWeight: "800",
 
             }}
           >
@@ -271,7 +271,7 @@ function App() {
                 fontSize: "42px",
                 color: "rgb(218,64,48)",
                 fontFamily: "DotumChe",
-                fontWeight: "500",
+                fontWeight: "800",
 
               }}
             >
