@@ -164,7 +164,7 @@ function App() {
               left: "27px",
               top: "200px",
               fontSize:"42px",
-              color: "rgb(0,0,0)",
+              color: "rgb(51,51,51)",
               fontFamily: "HarmonyOS Sans",
               fontWeight: "500",
 
@@ -178,7 +178,7 @@ function App() {
               left: "700px",
               top: "175px",
               fontSize:"42px",
-              color: "rgb(0,0,0)",
+              color: "rgb(51,51,51)",
               fontFamily: "HarmonyOS Sans",
               fontWeight: "500",
 
@@ -222,7 +222,7 @@ function App() {
               left: "27px",
               top: "300px",
               fontSize: "30px",
-              color: "black",
+              color: "rgb(51,51,51)",
               fontFamily: "HarmonyOS Sans",
               fontWeight: "500",
 
@@ -236,7 +236,7 @@ function App() {
               left: "700px",
               top: "300px",
               fontSize: "30px",
-              color: "black",
+              color: "rgb(51,51,51)",
               fontFamily: "HarmonyOS Sans",
               fontWeight: "500",
 
