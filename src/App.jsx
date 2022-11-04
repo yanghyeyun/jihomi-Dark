@@ -220,7 +220,7 @@ function App() {
           <div
             style={{
               position: "absolute",
-              right: "25px",
+              right: "24px",
               top: "191px",
               fontSize: "40px",
               color: "rgb(51,51,51)",
