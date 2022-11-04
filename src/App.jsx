@@ -294,7 +294,7 @@ function App() {
               top: "21px",
               fontSize: "41.5px",
               color: "rgb(218,64,48)",
-              fontFamily: "DotumChe",
+              fontFamily: "Roboto",
               fontWeight: "800",
 
             }}
@@ -313,7 +313,7 @@ function App() {
                 top: "72px",
                 fontSize: "41.5px",
                 color: "rgb(218,64,48)",
-                fontFamily: "DotumChe",
+                fontFamily: "Roboto",
                 fontWeight: "800",
 
               }}
