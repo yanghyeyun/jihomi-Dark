@@ -8,6 +8,7 @@ import html2canvas from "html2canvas";
 function App() {
   const [coin, setCoin] = useState("누사이퍼");
   const [price, setprice] = useState("NU");
+  const [won, setwon] = useState("KRW");
   const [askPrice, setaskPrice] = useState("500"); 
   const [bidPrice, setbidPrice] = useState("550");
   const [maxPrice, setmaxPrice] = useState("100000");
@@ -215,6 +216,20 @@ function App() {
             }}
           >
             {price}
+          </div>
+          <div
+            style={{
+              position: "absolute",
+              right: "27px",
+              top: "191px",
+              fontSize: "40px",
+              color: "rgb(51,51,51)",
+              fontFamily: "HarmonyOS Sans",
+              fontWeight: "1000",
+
+            }}
+          >
+            {won}
           </div>
           <div
             style={{
