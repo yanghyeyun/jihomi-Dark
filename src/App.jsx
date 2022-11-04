@@ -208,7 +208,7 @@ function App() {
               position: "absolute",
               right: "500px",
               top: "175px",
-              fontSize: "40px",
+              fontSize: "35px",
               color: "rgb(51,51,51)",
               fontFamily: "HarmonyOS Sans",
               fontWeight: "1000",
