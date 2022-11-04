@@ -231,6 +231,21 @@ function App() {
           >
             {won}
           </div>
+                    </div>
+          <div
+            style={{
+              position: "absolute",
+              right: "490px",
+              top: "304px",
+              fontSize: "40px",
+              color: "rgb(51,51,51)",
+              fontFamily: "HarmonyOS Sans",
+              fontWeight: "1000",
+
+            }}
+          >
+            {won}
+          </div>
           <div
             style={{
               position: "absolute",
