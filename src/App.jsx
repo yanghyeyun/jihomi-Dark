@@ -166,7 +166,7 @@ function App() {
               top: numsLoc[1] + 195 + "px",
               fontSize:"42px",
               color: "rgb(51,51,51)",
-              fontFamily: "DotumChe",
+              fontFamily: "Roboto_Regular",
               fontWeight: "800",
 
             }}
@@ -180,7 +180,7 @@ function App() {
               top: "196px",
               fontSize:"42px",
               color: "rgb(51,51,51)",
-              fontFamily: "DotumChe",
+              fontFamily: "Roboto_Regular",
               fontWeight: "800",
 
             }}
@@ -266,7 +266,7 @@ function App() {
               top: "304px",
               fontSize: "42px",
               color: "rgb(51,51,51)",
-              fontFamily: "DotumChe",
+              fontFamily: "Roboto_Regular",
               fontWeight: "800",
 
             }}
@@ -280,7 +280,7 @@ function App() {
               top: "306px",
               fontSize: "42px",
               color: "rgb(51,51,51)",
-              fontFamily: "DotumChe",
+              fontFamily: "Roboto_Regular",
               fontWeight: "800",
 
             }}
