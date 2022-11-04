@@ -231,7 +231,6 @@ function App() {
           >
             {won}
           </div>
-                    </div>
           <div
             style={{
               position: "absolute",
