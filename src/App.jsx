@@ -294,7 +294,7 @@ function App() {
               top: "21px",
               fontSize: "41.5px",
               color: "rgb(218,64,48)",
-              fontFamily: "Roboto",
+              fontFamily: "Roboto_Regular",
               fontWeight: "400",
 
             }}
