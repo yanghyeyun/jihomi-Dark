@@ -162,8 +162,8 @@ function App() {
                     <div
             style={{
               position: "absolute",
-              right: numLocLR + 575 + "px",
-              top: numsLoc[1] + 175 + "px",
+              right: numLocLR + 565 + "px",
+              top: numsLoc[1] + 180 + "px",
               fontSize:"42px",
               color: "rgb(51,51,51)",
               fontFamily: "Roboto_Regular",
