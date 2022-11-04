@@ -206,8 +206,8 @@ function App() {
           <div
             style={{
               position: "absolute",
-              right: "490px",
-              top: "191px",
+              right: "500px",
+              top: "180px",
               fontSize: "40px",
               color: "rgb(51,51,51)",
               fontFamily: "HarmonyOS Sans",
