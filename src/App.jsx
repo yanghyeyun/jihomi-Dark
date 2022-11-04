@@ -211,7 +211,7 @@ function App() {
               fontSize: "35px",
               color: "rgb(51,51,51)",
               fontFamily: "HarmonyOS Sans",
-              fontWeight: "800",
+              fontWeight: "1000",
 
             }}
           >
