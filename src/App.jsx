@@ -291,7 +291,7 @@ function App() {
             style={{
               position: "absolute",
               right: "20px",
-              top: "41px",
+              top: "36px",
               fontSize: "41.5px",
               color: "rgb(218,64,48)",
               fontFamily: "DotumChe",
@@ -310,7 +310,7 @@ function App() {
               style={{
                 position: "absolute",
                 right: "20px",
-                top: "103px",
+                top: "87px",
                 fontSize: "41.5px",
                 color: "rgb(218,64,48)",
                 fontFamily: "DotumChe",
