@@ -165,7 +165,7 @@ function App() {
               right: numLocLR + 560 + "px",
               top: numsLoc[1] + 165 + "px",
               fontSize: "35.5px",
-              color: "rgb(218,64,48)",
+              color: "rgb(51,51,51)",
               fontFamily: "Roboto_Regular",
               fontWeight: "500",
 
