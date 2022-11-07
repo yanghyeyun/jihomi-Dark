@@ -164,10 +164,10 @@ function App() {
               position: "absolute",
               right: numLocLR + 560 + "px",
               top: numsLoc[1] + 165 + "px",
-              fontSize:"42px",
-              color: "rgb(51,51,51)",
+              fontSize: "35.5px",
+              color: "rgb(218,64,48)",
               fontFamily: "Roboto_Regular",
-              fontWeight: "400",
+              fontWeight: "500",
 
             }}
           >
