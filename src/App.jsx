@@ -150,7 +150,7 @@ function App() {
               left: "27px",
               top: "29px",
               fontSize:"32.5px",
-              color: "rgb(23,53,130)",
+              color: "rgb(211,212,214)",
               fontFamily: "HarmonyOS Sans",
               fontWeight: "600",
 
@@ -165,7 +165,7 @@ function App() {
               right: numLocLR + 556 + "px",
               top: numsLoc[1] + 174 + "px",
               fontSize: "35.5px",
-              color: "rgb(51,51,51)",
+              color: "rgb(211,212,214",
               fontFamily: "Roboto_Regular",
               fontWeight: "500",
 
@@ -179,7 +179,7 @@ function App() {
               right: "120px",
               top: "174px",
               fontSize: "35.5px",
-              color: "rgb(51,51,51)",
+              color: "rgb(211,212,214)",
               fontFamily: "Roboto_Regular",
               fontWeight: "500",
 
@@ -194,7 +194,7 @@ function App() {
               left: "27px",
               top: "72px",
               fontSize: "33.5px",
-              color: "RGB(23,53,130)",
+              color: "RGB(211,212,214)",
               fontFamily: "HarmonyOS Sans",
               fontWeight: "700",
 
@@ -209,7 +209,7 @@ function App() {
               right: "494px",
               top: "176px",
               fontSize: "35px",
-              color: "rgb(51,51,51)",
+              color: "rgb(211,212,214)",
               fontFamily: "HarmonyOS Sans",
               fontWeight: "1000",
 
@@ -223,7 +223,7 @@ function App() {
               right: "16px",
               top: "176px",
               fontSize: "35px",
-              color: "rgb(51,51,51)",
+              color: "rgb(211,212,214)",
               fontFamily: "HarmonyOS Sans",
               fontWeight: "1000",
 
@@ -237,7 +237,7 @@ function App() {
               right: "496px",
               top: "295px",
               fontSize: "35px",
-              color: "rgb(51,51,51)",
+              color: "rgb(211,212,214)",
               fontFamily: "HarmonyOS Sans",
               fontWeight: "1000",
 
@@ -251,7 +251,7 @@ function App() {
               right: "16px",
               top: "295px",
               fontSize: "35px",
-              color: "rgb(51,51,51)",
+              color: "rgb(211,212,214)",
               fontFamily: "HarmonyOS Sans",
               fontWeight: "1000",
 
@@ -265,7 +265,7 @@ function App() {
               right: "603px",
               top: "293px",
               fontSize: "35.5px",
-              color: "rgb(51,51,51)",
+              color: "rgb(211,212,214)",
               fontFamily: "Roboto_Regular",
               fontWeight: "500",
 
@@ -279,7 +279,7 @@ function App() {
               right: "120px",
               top: "293px",
               fontSize: "35.5px",
-              color: "rgb(51,51,51)",
+              color: "rgb(211,212,214)",
               fontFamily: "Roboto_Regular",
               fontWeight: "500",
 
@@ -293,7 +293,7 @@ function App() {
               right: "16px",
               top: "16px",
               fontSize: "35.5px",
-              color: "rgb(218,64,48)",
+              color: "rgb(208,69,42)",
               fontFamily: "Roboto_Regular",
               fontWeight: "500",
 
@@ -312,7 +312,7 @@ function App() {
                 right: "16px",
                 top: "69px",
                 fontSize: "35.5px",
-                color: "rgb(218,64,48)",
+                color: "rgb(208,69,42)",
                 fontFamily: "Roboto_Regular",
                 fontWeight: "500",
 
